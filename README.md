@@ -6,9 +6,6 @@ some guitars that i fancy
 ![](http://www.ibanez.co.jp/products/images/eg2013/FR420_BBT_1P_01.png)
 http://www.ibanez.co.jp/products/eg_page13.php?area_id=3&data_id=139&color=CL01&year=2013&cat_id=1&series_id=153
 
-![](http://www.ibanez.co.jp/products/images/eg2013/RG3250MZ_FOR_00_02.png)
-http://www.ibanez.co.jp/products/eg_page13.php?area_id=3&data_id=64&color=CL01&year=2013&cat_id=1&series_id=147
-
 ![](http://www.mayones.com/bindata/catalog/images/zrodlo/CATIMG49ec61301071d0b293b2d067af8f82d9.jpg)
 http://www.mayones.com/en/katalog/setius/mayones_setius_m6_mahogany_EN
 
