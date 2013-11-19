@@ -56,3 +56,8 @@ http://www.suhr.com/guitars/The-2013-Collection/02.html
 
 ![](http://www.suhr.com/core/media/media.nl?id=1125&c=3496541&h=9ffa20983b1537395918)
 http://www.suhr.com/guitars/The-2013-Collection/03.html
+
+## washburn widlxspltd
+
+![](http://www.washburn.com/products/electrics/originalidol/images/WIDLXSPLTD.jpg)
+http://www.washburn.com/products/electrics/originalidol/widlxspltd.php
